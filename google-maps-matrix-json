@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "800 Mohawk Rd E, Hamilton, ON L8T 2R1, Canada" ],
+   "origin_addresses" : [ "24 Brendan Ct, Hamilton, ON L8T 4R4, Canada" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 842
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 101
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
