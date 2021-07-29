@@ -8,6 +8,12 @@ Custon JSON file for practice with the various programming language.
 4) IPSTACK JSON format
 5) Dummy data of JSON format
 
+# HOW TO USE IT?
+1) Click on the file of json format that you want to use.
+2) Find and click Raw button on the top-right of the file.
+3) Now copy the URL of the Raw file and use it as the normal JSON file in your project.
+4) Enjoy!!!
+
 # ALL credits goes to respective companies and technologies for such an amazing work and helping us fetching the data in a simpler way.
 
 Google Maps: https://maps.googleapis.com/maps/api/geocode/json?latlng= **YOUR CURRENT LATITUDE** , **YOUR CURRENT LONGITUDE** &key= **PUT API KEY HERE**
