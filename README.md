@@ -1,7 +1,8 @@
 # json
-# This is just for practice and have case use of similar data from the real web environment. This can be used for demo website and get a better understanding of the JSON file from the different format. I want other to contribute to this so no one should pay for APIs for hand-on experience.
+# This is just for practice and have case use of similar data from the real web environment. This can be used for demo website and get a better understanding of the JSON file from the different format. 
+# I want other to contribute to this so no one should pay for APIs for hand-on experience.
 
-Custon JSON file for practice with the various programming language.
+Custom JSON file for practice and hands-on experience.
 1) Google Maps JSON format
 2) Google Maps Matrix JSON format
 3) Instagram JSON format
